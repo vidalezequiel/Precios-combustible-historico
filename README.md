@@ -23,3 +23,16 @@ El resultado es un conjunto de datos consistente que permite analizar **cómo ha
 Este proyecto demuestra un flujo de trabajo realista de análisis de datos aplicado a un contexto económico concreto, integrando Python, Pandas y Power BI para convertir datos públicos en **estadísticas claras, visualizaciones efectivas y conclusiones basadas en evidencia**.
 
 El enfoque adoptado es replicable para otros conjuntos de datos similares y constituye un ejemplo práctico de análisis de datos orientado a la comprensión de fenómenos económicos reales.
+
+---
+
+## © Autor
+
+**Ezequiel Vidal**  
+Analista de Datos / Desarrollo de Software
+
+📞 Teléfono: +54 9 261 662 7166  
+📧 Email: pezequielvidal@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ezeevidal
+
+Este proyecto fue desarrollado con fines de análisis, visualización y demostración de capacidades técnicas en ciencia de datos y business intelligence.
